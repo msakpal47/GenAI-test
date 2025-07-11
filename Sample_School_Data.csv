@@ -1,0 +1,11 @@
+Name,DOB,Gender,Standard,Medium,Address,Contact_number,Email,Blood_Group,Hobbies
+Monish,2003-07-11,Male,10,English,Belapur,9876543210,monish@example.com,B+,"['Reading', 'Coding']"
+Vijay,2005-03-15,Male,8,Marathi,Airoli,9123456789,vijay@example.com,A+,['Singing']
+Paresh,2002-12-25,Male,10,Semi-English,Ulhasnagar,9988776655,paresh@example.com,O-,"['Dancing', 'Sports']"
+Parshu,2006-01-10,Male,7,English,Sanpada,9765432100,parshu@example.com,AB+,"['Drawing', 'Reading']"
+Anjali,2004-06-20,Female,9,Marathi,Thane,9012345678,anjali@example.com,A-,"['Singing', 'Dancing']"
+Sneha,2005-09-30,Female,8,English,Dombivli,9876501234,sneha@example.com,B-,['Coding']
+Rohit,2003-11-05,Male,10,Semi-English,Vashi,9123467890,rohit@example.com,O+,"['Sports', 'Reading']"
+Priya,2004-02-14,Female,9,English,Kalyan,9988001122,priya@example.com,AB-,['Drawing']
+Suresh,2002-07-08,Male,10,Marathi,Panvel,9765412345,suresh@example.com,A+,"['Coding', 'Singing']"
+Aarti,2005-04-22,Female,7,Semi-English,Nerul,9012309876,aarti@example.com,B+,"['Sports', 'Drawing']"
